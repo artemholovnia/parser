@@ -1,5 +1,3 @@
-# parser
-Parser for OLX.UA
 
 import csv
 from bs4 import BeautifulSoup
